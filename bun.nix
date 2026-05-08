@@ -13,41 +13,41 @@
   ...
 }:
 {
-  "@anthropic-ai/claude-code-darwin-arm64@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.133.tgz";
-    hash = "sha512-GwRvuTEdbk507q9bSsImv7+sriGEkaMeVvIWS/zl/oS+HlyjGx5xIeLB3BlTWoZqdMr2+zCO6YrbogXPHoB55w==";
+  "@anthropic-ai/claude-code-darwin-arm64@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.136.tgz";
+    hash = "sha512-QjXLCiRmLqbkw+lW+QTv4UqfJ2Ye3wf0hA1TwQjG4pjfkOEX3s448SBB8Uj+2F/S20ccROSP6XZbkzKZYXv8Wg==";
   };
-  "@anthropic-ai/claude-code-darwin-x64@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.133.tgz";
-    hash = "sha512-NdFofwmlcFmgLUk/WOO3Ui4XLK/PtZNOk46iTm/6vzwO5ORDVylGjYuHE1QNB9pm5cep3iZ0VKLkYT2JqhYlog==";
+  "@anthropic-ai/claude-code-darwin-x64@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.136.tgz";
+    hash = "sha512-mciIuOidgbc7INWOgh754B0xtFqfv/5JQDhKDKQK8PIxibXdWuGsPIoeuAO+FjQFbcaNisvG1FLHGZvXeXQffg==";
   };
-  "@anthropic-ai/claude-code-linux-arm64-musl@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64-musl/-/claude-code-linux-arm64-musl-2.1.133.tgz";
-    hash = "sha512-QKiybeDHSmDbGLf5cpRcz5qfVskRsMErKk9XrvVN2YbZStRwINPxspEJJLGwvJ6KSt/zfOROguQ/rnui/IU02w==";
+  "@anthropic-ai/claude-code-linux-arm64-musl@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64-musl/-/claude-code-linux-arm64-musl-2.1.136.tgz";
+    hash = "sha512-R76ErOoeqPy9Y2z+b48wEBPI4rbd5J1IP2hHhmnqI/8SLaQLPZsGfpKkOzrZ6pzom8Nwq3W3q4lvFKuXLzg59Q==";
   };
-  "@anthropic-ai/claude-code-linux-arm64@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.133.tgz";
-    hash = "sha512-lTFLbg92Gj3PpD475xsILmAeBT6b50DMOb1jBUuKCkiLpQY3owtVEtwKB1hBkSwyDO8GZqk7BbXkumkWz0DsBg==";
+  "@anthropic-ai/claude-code-linux-arm64@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.136.tgz";
+    hash = "sha512-yvVY+A9yNZ7wl1OZmPO6LFqs7VdV1L3S4jWE/47RZp1b9twe3YP7N9CJqXrqr139CBNAh69Hj3QEiLp9qibXrg==";
   };
-  "@anthropic-ai/claude-code-linux-x64-musl@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64-musl/-/claude-code-linux-x64-musl-2.1.133.tgz";
-    hash = "sha512-gypamJHtgMH9vXJ8+0fldumSs+H5LuNNeScFl2SjEnf8ecLSwZsHiav7yro77jHd/6thihUOSa6dJ746/fWBJw==";
+  "@anthropic-ai/claude-code-linux-x64-musl@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64-musl/-/claude-code-linux-x64-musl-2.1.136.tgz";
+    hash = "sha512-PZ9c3wgU35q/y07kwh3Kl736FOm3t5leVdInMPQCaXMLcVs8mu2EG3mOQjFZv1QNtfQ7LV8/hSjB1wV+DkXIqw==";
   };
-  "@anthropic-ai/claude-code-linux-x64@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.133.tgz";
-    hash = "sha512-pfv9LCybrEG5/y5NGEB3vJQs0QNQbDjGDyFgiNzu700Wq6Wrp+WWYOMKG1i0IGWzuOCUEQ/EqX8aQciQJ+1fLA==";
+  "@anthropic-ai/claude-code-linux-x64@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.136.tgz";
+    hash = "sha512-xNjZXKAiseIkLE2q4LporJWBn9/OsWbv85kkfUprxTzn7btBNnlePlGqFa2AY3ydvqyN2HqxTRiZNUvgsVoiyQ==";
   };
-  "@anthropic-ai/claude-code-win32-arm64@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-win32-arm64/-/claude-code-win32-arm64-2.1.133.tgz";
-    hash = "sha512-xo9kfWcodSLUEnh86ypstDo97EcJryXlQzU/Kahvc4q1RunAWEs6F/Z0XdqBaDSa8HsHEZebY411qxX7yll5ow==";
+  "@anthropic-ai/claude-code-win32-arm64@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-win32-arm64/-/claude-code-win32-arm64-2.1.136.tgz";
+    hash = "sha512-/E6++VjjyhzVHxOmObXDa8dgsmGXEADReb+vluLNhpfPLncRqpRnzbPRvdsEFWpWuafmhyIgXiN3nN0wZxVmug==";
   };
-  "@anthropic-ai/claude-code-win32-x64@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-win32-x64/-/claude-code-win32-x64-2.1.133.tgz";
-    hash = "sha512-yPY8F/N81NxF1BlWrJZ5aQGAOXs5aj52Un1sztXpo3/wL/ySESsRi5XmtAXrGtpLZuPa/SDZaRk1+bkLqcALew==";
+  "@anthropic-ai/claude-code-win32-x64@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code-win32-x64/-/claude-code-win32-x64-2.1.136.tgz";
+    hash = "sha512-ftyEIq5QFo2MBFbjZEN1jw+XTyvWiZzN8yMGHWgq4MQiKLoYN4UyYfabsK2kKgQxVORo7wBbR3kIJ7aRbOmbPg==";
   };
-  "@anthropic-ai/claude-code@2.1.133" = fetchurl {
-    url = "https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-2.1.133.tgz";
-    hash = "sha512-vDDjIkh4oQSpTfwpyrH29dO/b8a1JFX0cqr06HpH/mLG635urj6Z+ePYwFEs4fU16JhztUs6EyaT8N7dIYn6GQ==";
+  "@anthropic-ai/claude-code@2.1.136" = fetchurl {
+    url = "https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-2.1.136.tgz";
+    hash = "sha512-TvvpEvpMnST9zKU/r75pXMtDI98aNx59lp0Bjgdiz5o8xGni2cM2W4rYOGdskGHkhElwqoXtVyZpbBqRueMsFA==";
   };
   "@types/bun@1.3.10" = fetchurl {
     url = "https://registry.npmjs.org/@types/bun/-/bun-1.3.10.tgz";
