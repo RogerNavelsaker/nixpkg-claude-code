@@ -3,7 +3,7 @@
   "package": {
     "repo": "claude-code",
     "npmName": "@anthropic-ai/claude-code",
-    "version": "2.1.266"
+    "version": "2.1.267"
   },
   "binary": {
     "name": "claude",
@@ -20,38 +20,38 @@
     ]
   },
   "dist": {
-    "url": "https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-2.1.266.tgz",
-    "hash": "sha512-zaEL5S5twZgQzmF1b/SBMSOllwMrJiqHXTd25ZWwaZRKr1jUKy4jGTPR/uMLYWsuv9Az1neiaWGLJu93lPYO8w==",
+    "url": "https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-2.1.267.tgz",
+    "hash": "sha512-0rErYxMp/5uJKt2Z8zJVRmuGEijTiDOb659YnELpGsxyrOp0BKhoOrT8tyNrK5yn8VLYXxc3X3KXfT9woL0R4g==",
     "platforms": {
       "x86_64-linux": {
         "package": "@anthropic-ai/claude-code-linux-x64",
-        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.266.tgz",
-        "hash": "sha512-0YW7k2gyjCKfoNNMn+h9LVOKbZi/XVie2BBLGcoahXtRmWIXNuhazEd0BdvXDbcUc7mi9A2Nwq/TWD/riwO6oA=="
+        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.267.tgz",
+        "hash": "sha512-/tbh7mVwKlsGV4NHSMp+Bxulu2Ly+DSnD7JcsSQex8UO2G7pq8sYXIXXNLR1l2U04Oia/qzH8UkUonRXkwWJeg=="
       },
       "aarch64-linux": {
         "package": "@anthropic-ai/claude-code-linux-arm64",
-        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.266.tgz",
-        "hash": "sha512-qnyuPH1dooHNt8KREs7GLNbzvYLHmh3VQYAlvWoQPg09CxdVwBDwos8S+dap03PHv07lPUhrCqliKOV6fIs69w=="
+        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.267.tgz",
+        "hash": "sha512-RCPXMMEkEad4JjXPcbGoL8GbJv6ysofI40P+B5pLrZaqtjbDyenFvghMI3YHQimE13fqijtsqgmULG8/mOVdfg=="
       },
       "x86_64-linux-musl": {
         "package": "@anthropic-ai/claude-code-linux-x64-musl",
-        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64-musl/-/claude-code-linux-x64-musl-2.1.266.tgz",
-        "hash": "sha512-4nW3qLWw2iy/Qjyjt5+N+nofkySQkN2c/VQfowyadrbg/yEgX2A1JQJXB106of+zt2dTTpM5Qy/Ai7IJ9MJJ/Q=="
+        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64-musl/-/claude-code-linux-x64-musl-2.1.267.tgz",
+        "hash": "sha512-y17rujUc3GgyoyXfp39CbYU0md+th0aft7Z1HgkFAkID20uBQGBLHCESg2Q8iCVfohQJAeMLjGzHW+MRsQ7L7g=="
       },
       "aarch64-linux-musl": {
         "package": "@anthropic-ai/claude-code-linux-arm64-musl",
-        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64-musl/-/claude-code-linux-arm64-musl-2.1.266.tgz",
-        "hash": "sha512-PiekRUTXD28N8Q7LYiabX7C51oevy1GpGrVNGx61KgKMi6eV4adyEm6iN3IWQhLDzi0Nkbpct81M0fAdDuiNdg=="
+        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64-musl/-/claude-code-linux-arm64-musl-2.1.267.tgz",
+        "hash": "sha512-lSXMv82JHOtTdvoVYlslUWOoddbzd969IEnzIfJPmED7YaO1IFSVRTXuwy601CM9xLFKIrPuqcV4TQCEbpGpog=="
       },
       "x86_64-darwin": {
         "package": "@anthropic-ai/claude-code-darwin-x64",
-        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.266.tgz",
-        "hash": "sha512-zcVMxGk3pp6Vo6rWolgXXV2fXoPFUYvVazfHeDejglOuSsgmCpGVVBSKSjSSM6ufa1cvb3XiqJ3HH3OjXet6pg=="
+        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.267.tgz",
+        "hash": "sha512-o19i4xQvZjUGBHgI0xkGNcmGUsWbgkx5NhLuUCSqhwnaft5ocHjL6L2eI/PLKRxE4BaO1Kg8Y2paGPppuNFH1w=="
       },
       "aarch64-darwin": {
         "package": "@anthropic-ai/claude-code-darwin-arm64",
-        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.266.tgz",
-        "hash": "sha512-VXuQWllJBff2h5b4tzHpv3vLksXGiSFhCGRd6Mpk09T3/xqZIY1supoK04xMtAY4HobeAIyIjINosT0Jl6Yq8w=="
+        "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.267.tgz",
+        "hash": "sha512-bTFYZ15uCsOprEtUWV1q/lx7mKPENEpZtj2zfapyV/TOHFRIzi2WfdRrZaz3HSDIYADnWNrWt2UaweNwP0xY5g=="
       }
     }
   },
